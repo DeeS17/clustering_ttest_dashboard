@@ -3,10 +3,11 @@
 Everything Plus is an online store that sells household goods that want to identify consumer profiles and see differences in average order frequency and size between user segments.
 
 In this project, I also created a dashboard that contains the following information:
-- the number of purchases per day
-- total purchases per day
-- the number of customers per month
-- individual purchase totals per month
+- The number of purchases per day
+- Total purchases per day
+- The number of customers per month
+- Individual purchase totals per month
+- Purchase date filter
 
 The image below is an example of the display from the dashboard:
 
